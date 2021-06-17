@@ -138,7 +138,9 @@ main {
 .label-highscore {
   font-size: 15px;
 }
-
+.number {
+  width: 50px;
+}
 /* media queries */
 @media only screen and (max-width: 1200px) {
   /*Tablets [601px -> 1200px]*/
